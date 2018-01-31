@@ -17,3 +17,7 @@ hs_err_pid*
 .project
 .settings
 /target/
+
+# Html
+*.htm
+*.html
