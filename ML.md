@@ -4,6 +4,7 @@
 
 - [Chris Albon](https://chrisalbon.com/)
 - [The Yhat Blog](http://blog.yhat.com/)
+- [Eric Yuan](http://eric-yuan.me/)
 - [NYC Data Science](https://nycdatascience.com/blog/)
 - [DataCamp](https://www.datacamp.com/community/blog)
 - [Oreilly Data Science](https://www.oreilly.com/topics/data-science)
@@ -11,6 +12,7 @@
 - [Christopher Olah](http://colah.github.io/)
 - [Scott Fortmann-Roe](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 - [Top 75 Data Science Blogs And Websites For Data Scientists](https://blog.feedspot.com/data_science_blogs/)
+- [极光日报](https://zhuanlan.zhihu.com/jiguang-daily)
 - [晓雷](https://zhuanlan.zhihu.com/xiaoleimlnote)
 
 ## Book
@@ -20,14 +22,16 @@
 
 ## Site
 
+- [Kaggle](https://www.kaggle.com/)
 - [KDnuggets](https://www.kdnuggets.com/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [Deep Learning](http://deeplearning.net/)
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Machine Learning at AWS](https://aws.amazon.com/cn/machine-learning/)
 
-## Research
+## Research/Survey
 
+- [Machine Learning Survey < 2013](http://www.mlsurveys.com/)
 - [Tom Mitchell](http://www.cs.cmu.edu/~tom/)
 - [Andrew Ng](http://www.andrewng.org/)
 - [十大机器学习公开课](https://www.leiphone.com/news/201701/0milWCyQO4ZbBvuW.html)

@@ -1,3 +1,5 @@
+### [Knowledge Graph](KG.md)
+
 ### [Information Retrieval](IR.md)
 
 ### [Internal Coach Federation](ICF.md)
