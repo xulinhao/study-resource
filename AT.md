@@ -28,7 +28,7 @@ the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fiel
 ## Stack Overflow
 
 - [Stack Overflow: The Architecture - 2016 Edition](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/)
-- [](https://www.zhihu.com/question/40514188/answer/93405793)
+- [Stack Overflow: The Architecture](https://www.zhihu.com/question/40514188/answer/93405793)
 
 ## LMax
 
