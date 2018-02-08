@@ -23,3 +23,5 @@
 ### [Internal Coach Federation](ICF.md)
 
 ### [OKR](OKR.md)
+
+### [Mindset](MIND.md)
