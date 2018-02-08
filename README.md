@@ -1,6 +1,4 @@
-# Computer Science
-
-### [Architectural Thinking](AT.md)
+## Computer Science
 
 ### [Knowledge Graph](KG.md)
 
@@ -8,17 +6,19 @@
 
 ### [Machine Learning](ML.md)
 
-### [Microservices](MS.md)
-
 ### [Statistical Learning](SL.md)
 
 
-# DevOps
+## DevOps
+
+### [Architectural Thinking](AT.md)
+
+### [Microservices](MS.md)
 
 ### [Tooling](TL.md)
 
 
-# Management/Coach
+## Management/Coach
 
 ### [Internal Coach Federation](ICF.md)
 
