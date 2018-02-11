@@ -6,8 +6,8 @@
 
 ### [Machine Learning](ML.md)
 
-#### -[Google](Google.md)
-#### -[Amazon](Amazon.md)
+- #### [Google](Google.md)
+- #### [Amazon](Amazon.md)
 
 ### [Statistical Learning](SL.md)
 
