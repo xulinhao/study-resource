@@ -13,6 +13,7 @@
 - [Scott Fortmann-Roe](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 - [Top 75 Data Science Blogs And Websites For Data Scientists](https://blog.feedspot.com/data_science_blogs/)
 - [李沐](https://www.zhihu.com/people/li-mu-23/activities)
+- [Deep Learning - The Straight Dope](http://gluon.mxnet.io/)
 - [动手学深度学习](https://zh.gluon.ai/)
 - [极光日报](https://zhuanlan.zhihu.com/jiguang-daily)
 - [晓雷](https://zhuanlan.zhihu.com/xiaoleimlnote)
