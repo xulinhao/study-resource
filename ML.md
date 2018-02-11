@@ -9,12 +9,8 @@
 - [DataCamp](https://www.datacamp.com/community/blog)
 - [Oreilly Data Science](https://www.oreilly.com/topics/data-science)
 - [Michael Nielsen](http://michaelnielsen.org/)
-- [Christopher Olah](http://colah.github.io/)
 - [Scott Fortmann-Roe](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 - [Top 75 Data Science Blogs And Websites For Data Scientists](https://blog.feedspot.com/data_science_blogs/)
-- [李沐](https://www.zhihu.com/people/li-mu-23/activities)
-- [Deep Learning - The Straight Dope](http://gluon.mxnet.io/)
-- [动手学深度学习](https://zh.gluon.ai/)
 - [极光日报](https://zhuanlan.zhihu.com/jiguang-daily)
 - [晓雷](https://zhuanlan.zhihu.com/xiaoleimlnote)
 
@@ -30,9 +26,6 @@
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [Deep Learning](http://deeplearning.net/)
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [Machine Learning at AWS](https://aws.amazon.com/cn/machine-learning/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [TensorFlow Playground](http://playground.tensorflow.org/)
 
 ## Research/Survey
 
