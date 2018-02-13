@@ -1,5 +1,7 @@
 # Google
 
+- [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
+
 ## Blog
 
 - [Christopher Olah](http://colah.github.io/)
