@@ -1,30 +1,31 @@
 ## Computer Science
 
-### [Knowledge Graph](KG.md)
+### [Knowledge Graph](cs/KG.md)
 
-### [Information Retrieval](IR.md)
+### [Information Retrieval](cs/IR.md)
 
-### [Machine Learning](ML.md)
+### [Machine Learning](cs/ML.md)
 
-- [Google](Google.md)
-- [Amazon](Amazon.md)
+- [Google](cs/Google.md)
+- [Amazon](cs/Amazon.md)
+- [Andrew Ng](cs/Ng.md)
 
-### [Statistical Learning](SL.md)
+### [Statistical Learning](cs/SL.md)
 
 
 ## DevOps
 
-### [Architectural Thinking](AT.md)
+### [Architectural Thinking](devops/AT.md)
 
-### [Microservices](MS.md)
+### [Microservices](devops/MS.md)
 
-### [Tooling](TL.md)
+### [Tooling](devops/TL.md)
 
 
 ## Management/Coach
 
-### [Internal Coach Federation](ICF.md)
+### [Internal Coach Federation](coach/ICF.md)
 
-### [OKR](OKR.md)
+### [OKR](coach/OKR.md)
 
-### [Mindset](MIND.md)
+### [Mindset](coach/MIND.md)
