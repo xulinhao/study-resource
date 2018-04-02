@@ -1,9 +1,6 @@
 # Architectural Thinking
 
-## Research
-
-- [Architectural Styles and
-the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+- [The Twelve-Factopr App](https://12factor.net/zh_cn/)
 
 ## LAMP
 
@@ -13,6 +10,7 @@ the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fiel
 
 - [Research at Google](https://research.google.com/pubs/papers.html)
 - [Distributed Systems and Parallel Computing](https://research.google.com/pubs/DistributedSystemsandParallelComputing.html)
+- [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book/index.html)
 - [大规模分布式系统的跟踪系统](https://bigbully.github.io/Dapper-translation/)
 
 ## LinkedIn
